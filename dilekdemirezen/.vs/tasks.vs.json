@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-logo",
+      "appliesTo": "logo.jpeg",
+      "type": "launch"
+    }
+  ]
+}

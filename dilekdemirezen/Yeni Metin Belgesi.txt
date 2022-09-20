@@ -1,0 +1,5 @@
+<i class="fa-solid fa-house-user"></i>
+<i class="fa-duotone fa-users"></i>
+<i class="fa-solid fa-asterisk"></i>
+<i class="fa-solid fa-image"></i>
+<i class="fa-solid fa-address-book"></i>
